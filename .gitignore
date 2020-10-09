@@ -1,0 +1,8 @@
+# ignore everything
+*
+# except this:
+!.gitignore
+!README.md
+!LICENSE
+!index.php
+
